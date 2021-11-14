@@ -9,7 +9,7 @@
 #### week 2 
 `모두의 주차장` DB를 활용한 예측 분석
 - 분석 목적 : 이용자 별 결제 이력을 바탕으로 향후 이용 건수를 예측하여 마케팅, 영업 등의 의사 결정 과정에 활용
-- 개인 분석 : https://nbviewer.jupyter.org/github/hwangnakjoo/team4_wanted_onboarding/blob/main/week2/%EB%B0%9C%ED%91%9C%EC%A4%80%EB%B9%84_onboarding_week2_analysis_v1.3.ipynb
+- 개인 분석 : https://github.com/hwangnakjoo/team4_wanted_onboarding/blob/main/week2/%EB%B0%9C%ED%91%9C%EC%A4%80%EB%B9%84_onboarding_week2_analysis_v1.3.ipynb
 - 발표 자료 : https://nbviewer.jupyter.org/github/hwangnakjoo/team4_wanted_onboarding/blob/main/Team4_onboarding_week2_analysis.ipynb
 - 발표자 : 박찬서, 황낙주
 
